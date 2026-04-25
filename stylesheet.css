@@ -72,6 +72,10 @@ footer {
 .contactinfo {
     font-size: larger;
 }
+.cinfoemail {
+    color: #4dabf7; 
+    font-weight: lighter;
+}
 .teamport {
     max-width: 400px;
     max-height: 400px;
